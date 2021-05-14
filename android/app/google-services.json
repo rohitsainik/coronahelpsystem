@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "942991209568",
+    "project_id": "cowin-help",
+    "storage_bucket": "cowin-help.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942991209568:android:72ddd519da48d666c4bf05",
+        "android_client_info": {
+          "package_name": "com.ec.coronahelpsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942991209568-icotopcacp5gm7gfr9c04ijv07evj7p1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ec.coronahelpsystem",
+            "certificate_hash": "8cc387fb5a3853caefcb9ad474c1e340b3d0459f"
+          }
+        },
+        {
+          "client_id": "942991209568-rh404sb5qi7onl2qgj4k42ua3jhmmsof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApJUs68Tk87H1Kl2DMJHIBMT87ulyk-ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942991209568-rh404sb5qi7onl2qgj4k42ua3jhmmsof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
